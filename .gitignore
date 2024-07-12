@@ -32,3 +32,18 @@ build/
 ### VS Code ###
 .vscode/
 
+# Diretórios do Eclipse
+.settings/
+.project
+.classpath
+
+# Arquivos de configuração do Eclipse
+*.launch
+
+# Arquivos locais de build do Eclipse
+bin/
+target/
+
+# Arquivos de cache
+.cache
+.metadata
